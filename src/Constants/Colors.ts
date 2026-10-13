@@ -1,0 +1,18 @@
+export const Colors = {
+  header: 'rgba(30,68,28,255)',
+  backgroundColor: '#F5F3FF',
+  primary: '#5B21B6',
+  accent: '#8B5CF6',
+  primaryFont: '#5F259E',
+  secondaryFont: '#ffffff',
+  background: '#F5F3FF',
+  grey: '#999',
+  red: '#DC2B45',
+  white: '#ffffff',
+  black: '#000000',
+  blue: '#146CEA',
+  fontcolor: '#000000',
+  inputBorder: '#00000024',
+  buttonColor: '#8B5CF6',
+  cardColor: '#efe9f5',
+};
